@@ -45,6 +45,4 @@ Here are some random examples from the model output:
 ![Detection 5](434d6dae-1a83-4239-8a7b-01b84dae870c.jpg)
 ![Detection 6](2c2b171a-29a6-46d9-864b-af356723ae24.jpg)
 
----
-
 ## 📁 Project Structure
