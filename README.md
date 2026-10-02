@@ -1,7 +1,7 @@
 # 💊 YOLO11 Pill Detection, Tracking & Color Classification
 
 A real-time computer vision system for **pharmaceutical capsule detection, multi-object tracking, and automated color classification** using **YOLO11, ByteTrack, and HSV color analysis**.
-
+🌐 Portfolio: https://maryamhekmatai.com/
 ---
 
 ## 🎯 Highlights
